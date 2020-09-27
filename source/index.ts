@@ -18,6 +18,7 @@ export default function parseLCOV(string = "") {
 }
 
 export {
+  LCOVRecord,
   FunctionsDetails,
   BranchesDetails,
   LinesDetails
