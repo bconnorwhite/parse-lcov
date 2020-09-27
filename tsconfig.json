@@ -1,0 +1,14 @@
+{
+  "extends": "@bconnorwhite/bob",
+  "compilerOptions": {
+    "rootDirs": [
+      "source",
+      "test",
+      "types"
+    ]
+  },
+  "include": [
+    "source",
+    "types"
+  ]
+}
