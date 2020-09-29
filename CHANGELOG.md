@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/bconnorwhite/parse-lcov/compare/v1.0.1...v1.0.2) (2020-09-29)
+
+
+### Bug Fixes
+
+* fix issue parsing multiple records ([a230cb6](https://github.com/bconnorwhite/parse-lcov/commit/a230cb63644c7799c1a84bf157c2a4f2d2b30e46))
+
+
+
 ## [1.0.1](https://github.com/bconnorwhite/parse-lcov/compare/v1.0.0...v1.0.1) (2020-09-27)
 
 
