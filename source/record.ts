@@ -36,28 +36,24 @@ export type LCOVRecord = {
   };
 }
 
-export const baseRecord: LCOVRecord = {
-  title: "",
-  file: "",
-  functions: {
-    found: 0,
-    hit: 0,
-    details: []
-  },
-  branches: {
-    found: 0,
-    hit: 0,
-    details: []
-  },
-  lines: {
-    found: 0,
-    hit: 0,
-    details: []
-  }
-};
-
 export function newRecord(): LCOVRecord {
   return {
-    ...baseRecord
+    title: "",
+    file: "",
+    functions: {
+      found: 0,
+      hit: 0,
+      details: []
+    },
+    branches: {
+      found: 0,
+      hit: 0,
+      details: []
+    },
+    lines: {
+      found: 0,
+      hit: 0,
+      details: []
+    }
   }
 }
