@@ -149,3 +149,10 @@ type LinesDetails = {
 <h2>License <img align="right" alt="license" src="https://img.shields.io/npm/l/parse-lcov.svg"></h2>
 
 [MIT](https://opensource.org/licenses/MIT)
+
+<br />
+
+## Related Packages
+
+- [parse-json-object](https://www.npmjs.com/package/parse-json-object): Parse a typed JSON object
+- [read-lcov-safe](https://www.npmjs.com/package/read-lcov-safe): Read and parse an lcov file without try catch
