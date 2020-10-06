@@ -6,8 +6,8 @@
   <a href="https://github.com/bconnorwhite/parse-lcov">
     <img alt="TypeScript" src="https://img.shields.io/github/languages/top/bconnorwhite/parse-lcov.svg">
   </a>
-  <a href='https://coveralls.io/github/bconnorwhite/parse-lcov?branch=master'>
-    <img alt="Coverage Status" src="https://img.shields.io/coveralls/github/bconnorwhite/parse-lcov.svg?branch=master">
+  <a href="https://coveralls.io/github/bconnorwhite/parse-lcov?branch=master">
+    <img alt="Coverage Status" src="https://coveralls.io/repos/github/bconnorwhite/parse-lcov/badge.svg?branch=master">
   </a>
   <a href="https://github.com/bconnorwhite/parse-lcov">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/bconnorwhite/parse-lcov?label=Stars%20Appreciated%21&style=social">
