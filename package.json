@@ -37,7 +37,7 @@
     "test": "bob test"
   },
   "devDependencies": {
-    "@bconnorwhite/bob": "^2.6.3"
+    "@bconnorwhite/bob": "^2.9.2"
   },
   "eslintConfig": {
     "extends": "eslint-config-bob"
