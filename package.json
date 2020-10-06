@@ -1,6 +1,6 @@
 {
   "name": "parse-lcov",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse LCOV",
   "license": "MIT",
   "author": {
