@@ -3,7 +3,10 @@
   "compilerOptions": {
     "rootDirs": [
       "source",
-      "test",
+      "types"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
       "types"
     ]
   },
